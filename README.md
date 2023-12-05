@@ -69,13 +69,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/chiiico1303/chiiico1303/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/o8YNdshQXEXH6JQK0m/giphy.gif"  />
-</div>
-
-###
